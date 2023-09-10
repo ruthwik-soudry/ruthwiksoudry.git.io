@@ -125,7 +125,22 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'React',
+    'Cypess',
+    'Node.js',
+    'Django',
+    'WordPress',
+    'Docker',
+    'Kubernates',
+    'OpenCV',
+    'Scikit-image',
+    'Cloud - AWS, Azure',
+    'Tensorflow',
+    'Database - MySQL, Postgres, Redis, GraphQL',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +150,30 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hey there! I'm Ruthwik Soudry. My journey with computers began as a kid, toggling with
+              MS-DOS and dual-booting systems. Today, with over 4 years under my belt, I'm
+              passionate about solving problems, regardless of the tech stack.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              I have had the privilege of joining a budding startup -{' '}
+              <a href="https://hashedin.com/">Hashedin</a> that eventually flourished and got
+              acquired by Deloitte. Later, I proudly became a founding member at{' '}
+              <a href="https://eatfit.in/">Curefoods</a>, shaping and designing their web solutions
+              from the ground up.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Presently, I'm navigating the final semester of my Master's in Information Systems at
+              Northeastern University, Boston. While pursuing my master i have had the opportunity
+              to work as a Full stack engineer co-op, at <a href="https://hometap.com/"> Hometap</a>{' '}
+              (a Boston based fintech company). With these gig under my belt im looking for the next
+              chapter in my life Ready for the next chapter!
+            </p>
+
+            <p>
+              With these experiences under my belt, I'm eager to embark on the next chapter of my
+              journey.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

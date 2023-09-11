@@ -167,13 +167,12 @@ const About = () => {
               Presently, I'm navigating the final semester of my Master's in Information Systems at
               Northeastern University, Boston. While pursuing my master i have had the opportunity
               to work as a Full stack engineer co-op, at <a href="https://hometap.com/"> Hometap</a>{' '}
-              (a Boston based fintech company). With these gig under my belt im looking for the next
-              chapter in my life!
+              (a Boston based fintech company).
             </p>
 
             <p>
               With these experiences under my belt, I'm eager to embark on the next chapter of my
-              journey.
+              journey!
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

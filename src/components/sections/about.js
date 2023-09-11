@@ -168,7 +168,7 @@ const About = () => {
               Northeastern University, Boston. While pursuing my master i have had the opportunity
               to work as a Full stack engineer co-op, at <a href="https://hometap.com/"> Hometap</a>{' '}
               (a Boston based fintech company). With these gig under my belt im looking for the next
-              chapter in my life Ready for the next chapter!
+              chapter in my life!
             </p>
 
             <p>

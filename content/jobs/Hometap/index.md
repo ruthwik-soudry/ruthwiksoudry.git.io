@@ -7,8 +7,8 @@ range: 'Jan 2023 - Aug 2023'
 url: 'https://www.hometap.com/'
 ---
 
-- Migrated React components to Storybook, optimizing cross-platform code reusability and empowering marketing team to tailor widgets for targeted promotions and advertisements.
+- Enhanced security of testing environment by data obfuscating 30,000+ user records using Python Django, streamlining QA tests, and supporting product strategy development.
 
-- Enhanced security by data obfuscating 30,000+ user records for testing environment, streamlining QA tests,and supporting product strategy development.
+- Migrated React components to Storybook, improved cross-platform code reusability, and enabled the marketing team to create customized widgets for targeted promotions and ads.
 
-- Established a Django based error reporting API for the Home Equity Dashboard, enhancing functional reliability through in-context reporting and yielding 30% rise in bug report submissions.
+- Developed and executed comprehensive acceptance, integration, and feature tests in Cypress, resulting in a coverage report exceeding 75% and ensuring high code quality standards.

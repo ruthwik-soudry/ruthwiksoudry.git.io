@@ -7,10 +7,10 @@ range: 'Apr 2021 - Feb 2022'
 url: 'https://www.eatfit.in/'
 ---
 
-- Spearheaded the development of Eatfit’s subscription product(eatfit.in/subscribe) using ReactJS with TypeScript and NodeJS, resulting in 12% increase in average order value(AOV) through strategic upsell & cross-sell features.
+- Spearheaded the development of Eatfit subscription product (eatfit.in/subscribe) using React.js, TypeScript, and Node.js, enhancing average order value (AOV) by 12% through strategic upsell and cross-sell features.
 
-- Architected ’Cyclops’ library using ReactJS, GraphQL, and WebSockets, boosting user experience with advanced lazy-loading and predictive prefetching; achieved 50% adoption across consumer and service platforms.
+- Engineered Cyclops, a ReactJS, GraphQL, and WebSockets library that boosts user experience with advanced lazy-loading and predictive prefetching, achieving over 50% adoption across consumer and service platforms.
 
-- Redesigned Eatfit’s infrastructure, achieving a 6% drop in crash rates through CI/CD automation with Docker, Jenkins, & K8s(Kubernetes) and using Sentry and Spinnaker for error management.
+- Redesigned Eatfit infrastructure, leading to 6% drop in crash rates through CI/CD automation with Docker, Jenkins, & K8s and using Sentry and Spinnaker for error management.
 
-- Established omnichannel platforms, scaled infrastructure, and transitioned from a monolithic system to a microservices-driven architecture to support 12 cities via food delivery, corporate food court & QSR(quick service restaurants).
+- Established and scaled omni-channel platforms for food delivery, corporate food courts, and QSR(quick service restaurants) in 12 cities by transitioning from a monolithic system to a microservices-driven architecture.

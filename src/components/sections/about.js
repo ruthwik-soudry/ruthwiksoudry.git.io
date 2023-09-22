@@ -130,6 +130,7 @@ const About = () => {
     'TypeScript',
     'React',
     'Cypess',
+    'Ruby on Rails',
     'Node.js',
     'Django',
     'WordPress',

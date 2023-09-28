@@ -128,10 +128,11 @@ const About = () => {
   const skills = [
     'JavaScript (ES6+)',
     'TypeScript',
-    'React',
+    'ReactJS',
+    'Java',
+    'Spring boot',
     'Cypess',
-    'Ruby on Rails',
-    'Node.js',
+    'NodeJS',
     'Django',
     'WordPress',
     'Docker',
@@ -141,6 +142,7 @@ const About = () => {
     'Cloud - AWS, Azure',
     'Tensorflow',
     'Database - MySQL, Postgres, Redis, GraphQL',
+    'Testing - Cypress, Jest, Junit, Selenium, Pytest',
   ];
 
   return (

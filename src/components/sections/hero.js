@@ -68,8 +68,7 @@ const Hero = () => {
     <>
       <p>
         I’m a full-stack engineer building (and sometimes designing) highly accessible,
-        human-centered applications for the web and specializing in computer vision. Currently, I’m
-        pursuing a Master’s degree in Information systems at northeastern university
+        human-centered applications for the web and specializing in computer vision.
       </p>
     </>
   );
